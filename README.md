@@ -12,9 +12,9 @@ Maintainer: Wim Vanderbauwhede
 
 ## BUILD AND RUN:
 
-  $ cd parallel_SOM
-  $ make
-  $ ./parallel_SOM
+    $ cd parallel_SOM
+    $ make
+    $ ./parallel_SOM
 
 ## MORE INFO
 
